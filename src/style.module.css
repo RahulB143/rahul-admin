@@ -1,0 +1,12 @@
+
+.listContainer{
+    max-width: 340px;
+    margin: 40px auto;
+}
+
+.list{
+    border-radius: 10px;
+}
+.listItem{
+    cursor: pointer;
+}
